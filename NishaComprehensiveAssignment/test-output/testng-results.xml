@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-09T07:56:29 IST" name="Default suite" finished-at="2025-07-09T07:56:59 IST" duration-ms="30903">
+    <groups>
+    </groups>
+    <test started-at="2025-07-09T07:56:29 IST" name="Default test" finished-at="2025-07-09T07:56:59 IST" duration-ms="30903">
+      <class name="SeleniumMakeMyTrip.TestNGConceptsinMakeMyTrip">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumMakeMyTrip.TestNGConceptsinMakeMyTrip@6c40365c]" started-at="2025-07-09T07:56:29 IST" name="setUp" finished-at="2025-07-09T07:56:32 IST" duration-ms="3196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="selectOneWayTripWithCities()[pri:0, instance:SeleniumMakeMyTrip.TestNGConceptsinMakeMyTrip@6c40365c]" started-at="2025-07-09T07:56:32 IST" name="selectOneWayTripWithCities" finished-at="2025-07-09T07:56:46 IST" duration-ms="14046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectOneWayTripWithCities -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumMakeMyTrip.TestNGConceptsinMakeMyTrip@6c40365c]" started-at="2025-07-09T07:56:46 IST" name="tearDown" finished-at="2025-07-09T07:56:47 IST" duration-ms="1008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumMakeMyTrip.TestNGConceptsinMakeMyTrip@6c40365c]" started-at="2025-07-09T07:56:47 IST" name="setUp" finished-at="2025-07-09T07:56:51 IST" duration-ms="3577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyMakeMyTripLogo()[pri:0, instance:SeleniumMakeMyTrip.TestNGConceptsinMakeMyTrip@6c40365c]" started-at="2025-07-09T07:56:51 IST" name="verifyMakeMyTripLogo" finished-at="2025-07-09T07:56:59 IST" duration-ms="8215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMakeMyTripLogo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumMakeMyTrip.TestNGConceptsinMakeMyTrip@6c40365c]" started-at="2025-07-09T07:56:59 IST" name="tearDown" finished-at="2025-07-09T07:56:59 IST" duration-ms="752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumMakeMyTrip.TestNGConceptsinMakeMyTrip -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
